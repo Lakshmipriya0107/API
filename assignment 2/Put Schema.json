@@ -5,12 +5,12 @@
         "caused_by": "",
         "watch_list": "",
         "upon_reject": "cancel",
-        "sys_updated_on": "2022-10-31 11:10:06",
+        "sys_updated_on": "2022-11-08 09:50:57",
         "child_incidents": "0",
         "hold_reason": "",
-        "task_effective_number": "INC0010695",
+        "task_effective_number": "INC0010915",
         "approval_history": "",
-        "number": "INC0010695",
+        "number": "INC0010915",
         "resolved_by": "",
         "sys_updated_by": "admin",
         "opened_by": {
@@ -18,7 +18,7 @@
             "value": "6816f79cc0a8016401c5a33be04be441"
         },
         "user_input": "",
-        "sys_created_on": "2022-10-31 11:04:17",
+        "sys_created_on": "2022-11-08 09:50:57",
         "sys_domain": {
             "link": "https://dev116902.service-now.com/api/now/table/sys_user_group/global",
             "value": "global"
@@ -42,7 +42,7 @@
         "rfc": "",
         "time_worked": "",
         "expected_start": "",
-        "opened_at": "2022-10-31 11:04:17",
+        "opened_at": "2022-11-08 09:50:57",
         "business_duration": "",
         "group_list": "",
         "work_end": "",
@@ -70,7 +70,7 @@
         "closed_by": "",
         "follow_up": "",
         "parent_incident": "",
-        "sys_id": "ecc57676977211105be87f5e6253af9a",
+        "sys_id": "00b1379d974b11105be87f5e6253af0b",
         "contact_type": "",
         "reopened_by": "",
         "incident_state": "1",
