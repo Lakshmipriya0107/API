@@ -14,7 +14,7 @@ public class TC001_CreateIncident extends RESTAssuredBase{
 		testCaseName = "Create a new Incident (REST)";
 		testDescription = "Create a new Incident and Verify";
 		nodes = "Incident";
-		authors = "Shruthi Sudhakaran";
+		authors = "Lakshmi";
 		category = "REST";
 		//dataProvider
 		dataFileName = "TC001";
@@ -31,7 +31,7 @@ public class TC001_CreateIncident extends RESTAssuredBase{
 		verifyResponseCode(response, 201);
 		
 		
-		verifyContentWithKey(response, "result.short_description", "This is Rest Assured Automation framework - Makaia-shruthi");
+		verifyContentWithKey(response, "result.short_description", "This is Rest Assured Automation framework - Makaia-Lakshmi");
 		sysID = getContentWithKey(response, "result.sys_id");
 		System.out.println(sysID+ " create is completed");
 	}
