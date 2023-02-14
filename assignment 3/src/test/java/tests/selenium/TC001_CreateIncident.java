@@ -14,7 +14,7 @@ public class TC001_CreateIncident extends PreAndPost{
 		testCaseName = "Create Incident (Using Selenium)";
 		testDescription = "Create a new Incident";
 		nodes = "Incident Management";
-		authors = "Sarath";
+		authors = "Lakshmi";
 		category = "UI";
 		dataSheetName = "TC002";
 
