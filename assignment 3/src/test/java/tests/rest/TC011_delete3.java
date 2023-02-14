@@ -14,7 +14,7 @@ public class TC011_delete3 extends RESTAssuredBase{
 		testCaseName = "Delete an Incident (REST)";
 		testDescription = "Delete an incident and Verify";
 		nodes = "Incident";
-		authors = "Shruthi Sudhakaran";
+		authors = "Lakshmi";
 		category = "REST";
 		
 	}
