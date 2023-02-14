@@ -14,7 +14,7 @@ public class TC011_PutIncident2 extends RESTAssuredBase{
 		testCaseName = "Update the Incident (REST)";
 		testDescription = "Update the incident and Verify";
 		nodes = "Incident";
-		authors = "Shruthi Sudhakaran";
+		authors = "Lakshmi";
 		category = "REST";
 		//dataProvider
 		dataFileName = "TC2";
@@ -33,8 +33,8 @@ public class TC011_PutIncident2 extends RESTAssuredBase{
 		verifyResponseCode(response, 200);
 		
 		
-		verifyContentWithKey(response, "result.short_description", "This is Rest Assured Automation framework - Makaia-updated by shru");
-		
+		verifyContentWithKey(response, "result.short_description", "This is Rest Assured Automation framework - Makaia-updated by Lakshmi");
+
 	}
 
 
