@@ -14,7 +14,7 @@ public class TC002_GetIncident extends RESTAssuredBase{
 		testCaseName = "Create a new Incident (REST)";
 		testDescription = "Create a new Incident and Verify";
 		nodes = "Incident";
-		authors = "Sudarshan";
+		authors = "Lakshmi";
 		category = "REST";
 	}
 
