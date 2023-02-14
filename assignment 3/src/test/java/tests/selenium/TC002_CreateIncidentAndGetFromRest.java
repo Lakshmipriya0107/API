@@ -18,7 +18,7 @@ public class TC002_CreateIncidentAndGetFromRest extends PreAndPost{
 		testCaseName = "Create Incident and Verify";
 		testDescription = "Create Incident (Using Selenium) and Verify using REST";
 		nodes = "Incident Management";
-		authors = "Shiva";
+		authors = "Lakshmi";
 		category = "UI & API";
 		dataSheetName = "TC002";
 
