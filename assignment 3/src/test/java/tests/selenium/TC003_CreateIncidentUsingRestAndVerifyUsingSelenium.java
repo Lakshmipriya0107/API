@@ -21,7 +21,7 @@ public class TC003_CreateIncidentUsingRestAndVerifyUsingSelenium extends PreAndP
 		testCaseName = "Search Incident (Using Selenium) After Creating Incident (Using REST Assured)";
 		testDescription = "Create Incident (Using REST Assured) and Search with Selenium";
 		nodes = "Incident Management";
-		authors = "Shiva";
+		authors = "Lakshmi";
 		category = "UI & API";
 		dataSheetName = "TC003";
 
